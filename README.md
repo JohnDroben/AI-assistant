@@ -66,5 +66,5 @@
 
 Илюстрации к проекту: https://github.com/JohnDroben/AI-assistant/blob/main/2025-02-25_18-32-56.png?raw=true
                       https://github.com/JohnDroben/AI-assistant/blob/main/2025-02-25_19-52-39.png?raw=true
-                      
+                      https://github.com/JohnDroben/AI-assistant/blob/main/2025-02-25_20-08-00.png?raw=true
 
